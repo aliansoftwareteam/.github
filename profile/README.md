@@ -1,7 +1,7 @@
 # 🚀 Alian Software
 
 👨‍💻 *Crafting Innovative Software Solutions Since 2010*  
-🌍 [Visit our website](https://www.aliansoftware.net)
+🌍 [Visit our website](https://aliansoftware.com)
 
 Alian Software is a leading software development company offering end-to-end tech solutions across the globe. With a passionate team of developers, designers, and strategists, we turn ideas into scalable digital products.
 
@@ -28,4 +28,4 @@ Alian Software is a leading software development company offering end-to-end tec
 
 📍 **Headquartered in India | Serving Clients Worldwide** 🌐  
 🤝 **Let’s build something great together!**  
-📬 [Contact Us](https://www.aliansoftware.net/contact-us)
+📬 [Contact Us](https://aliansoftware.com/contact-us/)
